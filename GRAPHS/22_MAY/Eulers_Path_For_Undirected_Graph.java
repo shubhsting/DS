@@ -60,6 +60,6 @@ class Solution {
                 eularianPath(graph, visited, neighbour, ans);
             }
         }
-        ans.add(src);
+        ans.add(0, src);
     }
 }
