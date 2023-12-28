@@ -1,5 +1,5 @@
 class Solution {
-
+    // https://leetcode.com/problems/bricks-falling-when-hit/
     class UnionFind {
         private int[] parent;
         private int[] size;
