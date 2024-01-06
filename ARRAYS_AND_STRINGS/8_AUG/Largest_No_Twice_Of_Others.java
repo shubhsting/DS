@@ -1,4 +1,5 @@
 class Solution {
+    // https://leetcode.com/problems/largest-number-at-least-twice-of-others/
     public int dominantIndex(int[] nums) {
         int max_1 = Integer.MIN_VALUE;
         int max_2 = Integer.MIN_VALUE;
