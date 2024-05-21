@@ -1,10 +1,9 @@
 package DP.LPS;
-// https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/description/
-// total length - LPS length is the actual 
+
 class Solution {
-    public int minInsertions(String s) {
-        int length = longestPalindromeSubseq_TopDown(s);
-        return s.length() - length;
+    int minDeletions(String str, int n) {
+        int length = longestPalindromeSubseq_TopDown(str);
+        return n - length;
     }
 
     public int longestPalindromeSubseq_TopDown(String str) {

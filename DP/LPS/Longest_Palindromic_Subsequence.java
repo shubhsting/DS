@@ -1,4 +1,5 @@
 package DP.LPS;
+// https://leetcode.com/problems/longest-palindromic-subsequence/description/
 // there are 2 a;proaches...1) using 2 pointer
 // 2. using lcs of string and reverse(string)
 class Solution {
