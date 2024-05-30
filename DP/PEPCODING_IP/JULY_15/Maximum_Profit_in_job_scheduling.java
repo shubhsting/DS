@@ -12,7 +12,7 @@ class Solution {
             this.profit = profit;
         }
     }
-
+    // add nlogn approach
     public int jobScheduling(int[] startTime, int[] endTime, int[] profit) {
         ArrayList<Job> jobs = new ArrayList<>();
         for (int index = 0; index < startTime.length; index++) {
