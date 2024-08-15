@@ -1,0 +1,9 @@
+https://leetcode.com/problems/subarray-sum-equals-k/description/
+https://www.geeksforgeeks.org/problems/sub-array-sum-divisible-by-k2617/1
+https://codeforces.com/contest/1520/problem/D
+https://www.geeksforgeeks.org/problems/substrings-with-similar-first-and-last-characters3644/1
+https://www.geeksforgeeks.org/problems/count-subarrays-with-equal-number-of-1s-and-0s-1587115620/1
+https://www.geeksforgeeks.org/problems/equal-0-1-and-23208/1
+https://leetcode.com/problems/k-closest-points-to-origin/description/
+https://leetcode.com/problems/max-consecutive-ones/description/
+https://leetcode.com/problems/max-consecutive-ones-iii/description/
