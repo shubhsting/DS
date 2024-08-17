@@ -7,3 +7,15 @@ https://www.geeksforgeeks.org/problems/equal-0-1-and-23208/1
 https://leetcode.com/problems/k-closest-points-to-origin/description/
 https://leetcode.com/problems/max-consecutive-ones/description/
 https://leetcode.com/problems/max-consecutive-ones-iii/description/
+https://leetcode.com/problems/minimum-number-of-refueling-stops/
+https://codeforces.com/contest/1526/problem/C2
+https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/
+https://www.geeksforgeeks.org/problems/check-arithmetic-progression1842/1
+https://leetcode.com/problems/array-of-doubled-pairs/
+https://leetcode.com/problems/longest-consecutive-sequence/description/
+https://leetcode.com/problems/the-skyline-problem/description/
+https://www.geeksforgeeks.org/problems/morning-assembly3038/1
+https://leetcode.com/problems/brick-wall/description/
+https://leetcode.com/problems/island-perimeter/description/
+https://leetcode.com/problems/bulb-switcher/description/
+https://leetcode.com/problems/isomorphic-strings/description/
