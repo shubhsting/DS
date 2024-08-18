@@ -19,3 +19,9 @@ https://leetcode.com/problems/brick-wall/description/
 https://leetcode.com/problems/island-perimeter/description/
 https://leetcode.com/problems/bulb-switcher/description/
 https://leetcode.com/problems/isomorphic-strings/description/
+https://leetcode.com/problems/trapping-rain-water/description/
+https://leetcode.com/problems/trapping-rain-water-ii/description/
+https://www.geeksforgeeks.org/problems/count-pairs-in-array-divisible-by-k/1
+https://www.geeksforgeeks.org/problems/digit-multiplier3000/1
+https://www.geeksforgeeks.org/problems/check-frequencies4211/1
+https://leetcode.com/problems/insert-delete-getrandom-o1/description/
