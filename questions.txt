@@ -25,3 +25,14 @@ https://www.geeksforgeeks.org/problems/count-pairs-in-array-divisible-by-k/1
 https://www.geeksforgeeks.org/problems/digit-multiplier3000/1
 https://www.geeksforgeeks.org/problems/check-frequencies4211/1
 https://leetcode.com/problems/insert-delete-getrandom-o1/description/
+https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/
+https://www.geeksforgeeks.org/problems/anagram-palindrome4720/1
+https://www.geeksforgeeks.org/problems/longest-distinct-characters-in-string5848/1
+https://leetcode.com/problems/group-anagrams/
+https://leetcode.com/problems/find-all-anagrams-in-a-string/
+https://leetcode.com/problems/minimum-window-substring/description/
+https://www.geeksforgeeks.org/problems/smallest-subarray-with-all-occurrences-of-a-most-frequent-element2258/1
+https://www.naukri.com/code360/problems/anagram-mapping_3125901?leftPanelTabValue=PROBLEM
+https://www.geeksforgeeks.org/problems/rearrange-characters4649/1
+https://www.geeksforgeeks.org/problems/check-if-two-strings-are-k-anagrams-or-not/1
+https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
