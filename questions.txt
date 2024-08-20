@@ -36,3 +36,8 @@ https://www.naukri.com/code360/problems/anagram-mapping_3125901?leftPanelTabValu
 https://www.geeksforgeeks.org/problems/rearrange-characters4649/1
 https://www.geeksforgeeks.org/problems/check-if-two-strings-are-k-anagrams-or-not/1
 https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
+https://www.codechef.com/problems/MODEFREQ?tab=statement
+https://www.naukri.com/code360/problems/line-reflection_1467109?leftPanelTabValue=PROBLEM
+https://leetcode.com/problems/k-th-smallest-prime-fraction/description/
+https://www.naukri.com/code360/problems/employee-free-time_1171181?leftPanelTabValue=PROBLEM
+
