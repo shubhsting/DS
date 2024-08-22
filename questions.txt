@@ -40,4 +40,9 @@ https://www.codechef.com/problems/MODEFREQ?tab=statement
 https://www.naukri.com/code360/problems/line-reflection_1467109?leftPanelTabValue=PROBLEM
 https://leetcode.com/problems/k-th-smallest-prime-fraction/description/
 https://www.naukri.com/code360/problems/employee-free-time_1171181?leftPanelTabValue=PROBLEM
-
+https://leetcode.com/problems/median-of-two-sorted-arrays/description/
+https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/
+https://leetcode.com/problems/koko-eating-bananas/description/
+https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/description/
+https://www.geeksforgeeks.org/problems/the-painters-partition-problem1535/1
+https://leetcode.com/problems/split-array-largest-sum/description/
