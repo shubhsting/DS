@@ -46,3 +46,9 @@ https://leetcode.com/problems/koko-eating-bananas/description/
 https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/description/
 https://www.geeksforgeeks.org/problems/the-painters-partition-problem1535/1
 https://leetcode.com/problems/split-array-largest-sum/description/
+https://www.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card
+https://leetcode.com/problems/find-median-from-data-stream/
+https://www.geeksforgeeks.org/problems/counting-sort/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card
+https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+https://leetcode.com/problems/search-in-rotated-sorted-array/description/
+https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
