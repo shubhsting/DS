@@ -59,3 +59,12 @@ https://www.geeksforgeeks.org/problems/maximum-difference-1587115620/1
 https://www.geeksforgeeks.org/problems/stock-span-problem-1587115621/1
 https://leetcode.com/problems/asteroid-collision/
 https://leetcode.com/problems/largest-rectangle-in-histogram/
+https://www.geeksforgeeks.org/problems/expression-contains-redundant-bracket-or-not/1
+https://www.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1
+https://www.geeksforgeeks.org/problems/longest-valid-parentheses5657/1
+https://www.geeksforgeeks.org/problems/max-sum-in-sub-arrays0824/1
+https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/
+https://www.geeksforgeeks.org/problems/count-the-reversals0401/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card
+https://leetcode.com/problems/remove-k-digits/
+https://www.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1
+https://leetcode.com/problems/valid-parentheses/description/
