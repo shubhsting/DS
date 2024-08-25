@@ -52,3 +52,10 @@ https://www.geeksforgeeks.org/problems/counting-sort/1?itm_source=geeksforgeeks&
 https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
 https://leetcode.com/problems/search-in-rotated-sorted-array/description/
 https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
+https://www.geeksforgeeks.org/problems/next-larger-element-1587115620/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card
+https://leetcode.com/problems/next-greater-element-ii/
+https://leetcode.com/problems/daily-temperatures/
+https://www.geeksforgeeks.org/problems/maximum-difference-1587115620/1
+https://www.geeksforgeeks.org/problems/stock-span-problem-1587115621/1
+https://leetcode.com/problems/asteroid-collision/
+https://leetcode.com/problems/largest-rectangle-in-histogram/
