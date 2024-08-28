@@ -75,3 +75,10 @@ https://www.geeksforgeeks.org/problems/generate-binary-numbers-1587115620/1
 https://leetcode.com/problems/validate-stack-sequences/description/
 https://leetcode.com/problems/maximum-frequency-stack/
 https://leetcode.com/problems/min-stack/description/
+https://leetcode.com/problems/copy-list-with-random-pointer/
+https://leetcode.com/problems/middle-of-the-linked-list/
+https://leetcode.com/problems/linked-list-cycle/description/
+https://leetcode.com/problems/intersection-of-two-linked-lists/description/
+https://leetcode.com/problems/lru-cache/description/
+https://leetcode.com/problems/reverse-linked-list/description/
+https://leetcode.com/problems/split-linked-list-in-parts/description/
