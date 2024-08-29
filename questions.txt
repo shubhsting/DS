@@ -82,3 +82,9 @@ https://leetcode.com/problems/intersection-of-two-linked-lists/description/
 https://leetcode.com/problems/lru-cache/description/
 https://leetcode.com/problems/reverse-linked-list/description/
 https://leetcode.com/problems/split-linked-list-in-parts/description/
+https://leetcode.com/problems/sum-of-distances-in-tree/
+https://leetcode.com/problems/binary-tree-inorder-traversal/description/
+https://leetcode.com/problems/binary-tree-preorder-traversal/
+https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/
+https://leetcode.com/problems/binary-tree-level-order-traversal/description/
+https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
