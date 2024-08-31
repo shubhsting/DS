@@ -96,3 +96,8 @@ https://www.geeksforgeeks.org/problems/reverse-level-order-traversal/1
 https://leetcode.com/problems/binary-tree-right-side-view/description/
 https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1
 https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/description/
+https://www.geeksforgeeks.org/problems/image-multiplication0627/1
+https://leetcode.com/problems/inorder-successor-in-bst/
+https://www.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1
+https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/
