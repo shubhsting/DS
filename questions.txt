@@ -101,3 +101,9 @@ https://leetcode.com/problems/inorder-successor-in-bst/
 https://www.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1
 https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/
+https://leetcode.com/problems/distribute-coins-in-binary-tree/
+https://leetcode.com/problems/binary-tree-cameras/description/
+https://leetcode.com/problems/binary-tree-maximum-path-sum/
+https://leetcode.com/problems/recover-binary-search-tree/description/
+https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
+https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/description/
