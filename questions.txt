@@ -107,3 +107,8 @@ https://leetcode.com/problems/binary-tree-maximum-path-sum/
 https://leetcode.com/problems/recover-binary-search-tree/description/
 https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
 https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/description/
+https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/
+https://www.geeksforgeeks.org/problems/merge-two-bst-s/1
+https://leetcode.com/problems/delete-node-in-a-bst/
+https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/
+https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
