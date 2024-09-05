@@ -112,3 +112,8 @@ https://www.geeksforgeeks.org/problems/merge-two-bst-s/1
 https://leetcode.com/problems/delete-node-in-a-bst/
 https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/
 https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
+https://leetcode.com/problems/validate-binary-search-tree/description/
+https://www.geeksforgeeks.org/problems/construct-bst-from-post-order/1
+https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/
+https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/
+https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/
