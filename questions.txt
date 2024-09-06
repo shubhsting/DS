@@ -117,3 +117,8 @@ https://www.geeksforgeeks.org/problems/construct-bst-from-post-order/1
 https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/
 https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/
 https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/
+https://leetcode.com/problems/count-complete-tree-nodes/
+https://leetcode.com/problems/closest-binary-search-tree-value/
+https://leetcode.com/problems/closest-binary-search-tree-value-ii/
+https://leetcode.com/problems/range-sum-query-mutable/description/
+https://leetcode.com/problems/sum-root-to-leaf-numbers/
