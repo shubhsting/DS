@@ -130,3 +130,5 @@ https://leetcode.com/problems/counting-bits/
 https://www.geeksforgeeks.org/problems/find-first-set-bit-1587115620/1
 https://leetcode.com/problems/single-number-iii/description/
 https://leetcode.com/problems/gray-code/
+https://leetcode.com/problems/subsets/description/
+https://leetcode.com/problems/smallest-sufficient-team/description/
