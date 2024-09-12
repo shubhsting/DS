@@ -132,3 +132,5 @@ https://leetcode.com/problems/single-number-iii/description/
 https://leetcode.com/problems/gray-code/
 https://leetcode.com/problems/subsets/description/
 https://leetcode.com/problems/smallest-sufficient-team/description/
+https://leetcode.com/problems/find-missing-and-repeated-values/
+https://leetcode.com/problems/minimum-number-of-work-sessions-to-finish-the-tasks/
